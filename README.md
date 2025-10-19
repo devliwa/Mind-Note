@@ -1,1 +1,1 @@
-# Mind-Note
+# BlueNote
